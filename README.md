@@ -6,3 +6,5 @@ accounts and a graph system to handle friend connections. Key features include:
   . Adding and removing friend connections, with the functionality to view all friend connections at any time.
   . Searching for profiles within the network and viewing all profiles currently in the network.
 Skills enhanced: Java, data structures, object-oriented programming, and team collaboration
+
+- The codeUML.png file shows a UML chart of all the functions in the project.
